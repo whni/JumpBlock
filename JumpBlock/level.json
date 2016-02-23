@@ -1,0 +1,141 @@
+{
+    "levelArray": [
+                   {
+                   "levelInfo": "SPR-001",
+                   "bgColor": "7F7F7F",
+                   "gravity": "-60.0",
+                   "ground": {
+                   "size": {
+                   "width": "2.0",
+                   "height": "0.33"
+                   },
+                   "position": {
+                   "x": "0.5",
+                   "y": "0.0"
+                   },
+                   "color": "04AFC8"
+                   },
+                   "block": {
+                   "size": {
+                   "width": "0.045",
+                   "height": "0.045"
+                   },
+                   "moveSpeed": "6.5",
+                   "jumpScale": "5.0",
+                   "jumpDuration": "0.8",
+                   "color": "33DFFF"
+                   },
+                   "barrier": [
+                               {
+                               "size": {
+                               "width": "1.0",
+                               "height": "2.0"
+                               },
+                               "position": {
+                               "x": "0.2",
+                               "y": "0.0"
+                               },
+                               "moveVector": {
+                               "dx": "0.0",
+                               "dy": "-1.0"
+                               },
+                               "moveDuration": "0.5",
+                               "color": "04AFC8"
+                               },
+                               {
+                               "size": {
+                               "width": "1.0",
+                               "height": "1.5"
+                               },
+                               "position": {
+                               "x": "0.5",
+                               "y": "0.0"
+                               },
+                               "moveVector": {
+                               "dx": "1.5",
+                               "dy": "0.0"
+                               },
+                               "moveDuration": "0.5",
+                               "color": "04AFC8"
+                               },
+                               {
+                               "size": {
+                               "width": "2.0",
+                               "height": "1.0"
+                               },
+                               "position": {
+                               "x": "0.75",
+                               "y": "0.0"
+                               },
+                               "moveVector": {
+                               "dx": "0.0",
+                               "dy": "0.0"
+                               },
+                               "moveDuration": "0.0",
+                               "color": "04AFC8"
+                               }
+                               ]
+                   },
+                   
+                   {
+                   "levelInfo": "SPG-002",
+                   "bgColor": "7F7F7F",
+                   "gravity": "-60.0",
+                   "ground": {
+                   "size": {
+                   "width": "2.0",
+                   "height": "0.33"
+                   },
+                   "position": {
+                   "x": "0.5",
+                   "y": "0.0"
+                   },
+                   "color": "04AFC8"
+                   },
+                   "block": {
+                   "size": {
+                   "width": "0.045",
+                   "height": "0.045"
+                   },
+                   "moveSpeed": "4",
+                   "jumpScale": "5.0",
+                   "jumpDuration": "0.8",
+                   "color": "33DFFF"
+                   },
+                   "barrier": [
+                               {
+                               "size": {
+                               "width": "1.0",
+                               "height": "2.0"
+                               },
+                               "position": {
+                               "x": "0.5",
+                               "y": "0.0"
+                               },
+                               "moveVector": {
+                               "dx": "1.5",
+                               "dy": "0.0"
+                               },
+                               "moveDuration": "0.5",
+                               "color": "04AFC8"
+                               },
+                               {
+                               "size": {
+                               "width": "2.0",
+                               "height": "1.0"
+                               },
+                               "position": {
+                               "x": "0.75",
+                               "y": "0.0"
+                               },
+                               "moveVector": {
+                               "dx": "0.0",
+                               "dy": "0.0"
+                               },
+                               "moveDuration": "0.0",
+                               "color": "04AFC8"
+                               }
+                               ]
+                   }
+                   ]
+}
